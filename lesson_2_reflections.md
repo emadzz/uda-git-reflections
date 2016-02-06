@@ -8,3 +8,11 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 * To add only the files that have a logical change, commit them .. then go add some other files which contain another logical change, commit them and so on ...
+
+What are some situations when branches would be helpful in keeping your
+  history organized? How would branches help?
+* You have to add new features to the project which requires some tests and
+  contains a lot of more than one logical changes.
+* You have a hotfix that needs to be done while you are working in
+  new features. ( The hotfix won't wait until you finish adding the new
+    features to be fixed .. it needs to be immediate )
