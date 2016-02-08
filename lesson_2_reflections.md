@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your
 * You have a hotfix that needs to be done while you are working in
   new features. ( The hotfix won't wait until you finish adding the new
     features to be fixed .. it needs to be immediate )
+
+How do the diagrams help you visualize the branch structure? [not sure I understand the question]
+* By understanding and see forks
+* By knowing which commits are unreachable
