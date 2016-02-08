@@ -20,3 +20,9 @@ What are some situations when branches would be helpful in keeping your
 How do the diagrams help you visualize the branch structure? [not sure I understand the question]
 * By understanding and see forks
 * By knowing which commits are unreachable
+
+What is the result of merging two branches together?
+  Why do we represent it in the diagram the way we do?
+* If there were new commits after the diverge, the merging process will
+  introduce a new commit that has reference to the two commits that were merged.
+* [I don't get this one]
