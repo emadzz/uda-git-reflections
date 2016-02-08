@@ -26,3 +26,12 @@ How would you collaborate without using Git or GitHub?
   when I make some changes. But with GitHub I can just make a pull request,
   and all of the collaborators will be notified and can make their comments
   on it. And we can even discuss it from there!
+
+When would you want to make changes in a separate branch
+  rather than directly in master? What benefits does each approach have?
+* When I think that some changes need to be approved by other collaborators,
+  so that I can make a pull request before merging directly.
+* When there are some development changes and I don't want to them to be
+  directly in master to avoid bugs.
+* But making a changes directly to master when there are some minor changes
+  saves time and steps needed by pull requests.
