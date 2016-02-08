@@ -19,3 +19,10 @@ What is the benefit of having a copy of the last known state of
   the remote stored locally?
 * This enables us to know the sync status of the local and remote branch if
   we ran offline. And also could allow us to merge offline too.
+
+How would you collaborate without using Git or GitHub?
+  What would be easier, and what would be harder?
+* Without GitHub I'll need to communicate directly with other collaborators
+  when I make some changes. But with GitHub I can just make a pull request,
+  and all of the collaborators will be notified and can make their comments
+  on it. And we can even discuss it from there!
