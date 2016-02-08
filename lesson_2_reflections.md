@@ -26,3 +26,12 @@ What is the result of merging two branches together?
 * If there were new commits after the diverge, the merging process will
   introduce a new commit that has reference to the two commits that were merged.
 * [I don't get this one]
+
+What are the pros and cons of Git’s automatic merging
+  vs. always doing merges manually?
+* + Automatic merging speeds the merging process when there are a lot of changes,
+  - but if there were new lines of codes that may interfere with others and
+  raise bugs, Git won't know that and we'll have to review all changes.
+* + Manual merging gives a better opportunity to review changes and check if there
+  are any interferes that might be caused by the new changes,
+  - but this would be overwhelming when dealing with a lot of changes.
